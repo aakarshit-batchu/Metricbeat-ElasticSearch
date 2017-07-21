@@ -1,0 +1,9 @@
+- name: cluster
+  type: group
+  description: >
+    cluster
+  fields:
+    - name: example
+      type: keyword
+      description: >
+        Example field

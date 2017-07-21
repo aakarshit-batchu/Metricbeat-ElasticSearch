@@ -1,0 +1,3 @@
+=== elasticsearch clusterhealth MetricSet
+
+This is the clusterhealth metricset of the module elasticsearch.

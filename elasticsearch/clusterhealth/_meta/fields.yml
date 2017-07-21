@@ -1,0 +1,9 @@
+- name: clusterhealth
+  type: group
+  description: >
+    clusterhealth
+  fields:
+    - name: example
+      type: keyword
+      description: >
+        Example field

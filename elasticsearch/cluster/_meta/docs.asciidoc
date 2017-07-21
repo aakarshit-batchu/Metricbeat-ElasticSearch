@@ -1,0 +1,3 @@
+=== elasticsearch cluster MetricSet
+
+This is the cluster metricset of the module elasticsearch.
